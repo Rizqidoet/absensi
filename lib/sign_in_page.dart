@@ -131,7 +131,7 @@ class SigninPage extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    padding: EdgeInsets.symmetric(horizontal: 20),
+                    padding: EdgeInsets.symmetric(horizontal: 12),
                     margin: EdgeInsets.only(top: 30),
                     child: Column(
                       children: [
